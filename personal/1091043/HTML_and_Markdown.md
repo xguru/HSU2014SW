@@ -12,6 +12,8 @@ HTML5는 지금 개발자들이 매우 신뢰할 수 있는 platform이 되어�
 
 Markdown은 쓰기 쉽고 읽기 쉬운 문서 작성을 위해 존 그루버(John Gruber)가 개발한 언어입니다. Markdown은 마크업 언어이며 과제 제출에 사용하는 Github나 Stackoverflow 같은 웹사이트들에서부터 Mac 소프트웨어에서까지 널리 사용되고 있습니다. 특히 우리나라에서는 주로 블로깅 하는 사람들이 Markdown언어를 즐겨 쓰는 편입니다.
 Markdown은 하나의 웹 문법으로, 텍스트 문서의 양식을 편집하는 데에 쓰입니다. 즉, 일반 텍스트 문서를 HTML 등 다른 문서형태로 변환이 가능합니다. 또한 Markdown language를 사용하면 텍스트를 Formatting 하는 동안 마우스 클릭하는 일이 줄어서 간편합니다. Markdown 고유의 문법은 매우 간단한 편 이어서 HTML보다 훨씬 이해하기 쉽고, 사용하기 편합니다. Markdown을 사용하는 관련 App으로는 Marked, Byword, Macchiato, Markdown Pro, iAWriter, Scrivener, Mou 등이 있습니다. 특히 Mou는 초기화면에 자세한 설명이 기재되어있어  Markdown에 익숙하지 않은 유저들이 처음 사용하기에 좋은 App입니다. Markdown의 단점으로는 공유 기능이 부족하고, 미리 보기로 전환이 느리며, 키워드 위치를 찾는 데에 불편함이 있다는 점입니다. 하지만 워낙 사용이 간편한 편이라 현재 많은 사람들이 사용하고 있습니다. 
+
+
 출처 :
  http://macnews.tistory.com/724
  http://www.clien.net/cs2/bbs/board.php?bo_table=cm_mac&wr_id=631643
