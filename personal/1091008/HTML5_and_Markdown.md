@@ -36,7 +36,7 @@
 
 
 - 브라우저 지원 상태
- ![그림](http://postfiles8.naver.net/20140402_135/rlaghksdlr_1396449017308lc5Tr_JPEG/aa.jpg?type=w3" )
+ ![그림](http://postfiles8.naver.net/20140402_135/rlaghksdlr_1396449017308lc5Tr_JPEG/aa.jpg?type=w3 )
  출처: 위키피디아
 
 - HTML5의 미래<br>
