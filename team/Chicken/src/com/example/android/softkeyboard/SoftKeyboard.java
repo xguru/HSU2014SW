@@ -16,12 +16,14 @@
  
 package com.example.android.softkeyboard;
  
+import java.util.ArrayList;
+import java.util.List;
+
 import android.content.Context;
 import android.inputmethodservice.InputMethodService;
 import android.inputmethodservice.Keyboard;
 import android.inputmethodservice.KeyboardView;
 import android.text.method.MetaKeyKeyListener;
-import android.util.Log;
 import android.view.KeyCharacterMap;
 import android.view.KeyEvent;
 import android.view.View;
@@ -29,9 +31,6 @@ import android.view.WindowManager;
 import android.view.inputmethod.CompletionInfo;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputConnection;
- 
-import java.util.ArrayList;
-import java.util.List;
  
 /**
  * Example of writing an input method for a soft keyboard.  This code is
@@ -510,4 +509,10 @@ public class SoftKeyboard extends InputMethodService
     public void onPress(int primaryCode) { }
     
     public void onRelease(int primaryCode) { }
+
+	@Override
+	public void onText(CharSequence text) {
+		// TODO Auto-generated method stub
+		
+	}
 }
