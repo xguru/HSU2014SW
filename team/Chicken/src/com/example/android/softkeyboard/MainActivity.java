@@ -1,4 +1,4 @@
-package com.example.softkeyboard;
+package com.example.android.softkeyboard;
 
 import android.os.Bundle;
 import android.app.Activity;

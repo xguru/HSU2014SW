@@ -17,9 +17,9 @@
 ** limitations under the License.
 */
 -->
- 
 <resources>
-    <dimen name="key_height">50px</dimen>
-    <dimen name="candidate_font_height">16sp</dimen>
-    <dimen name="candidate_vertical_padding">6sp</dimen>
+    <color name="candidate_normal">#FF000000</color>
+    <color name="candidate_recommended">#FFE35900</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_background">#bbffffff</color>
 </resources>

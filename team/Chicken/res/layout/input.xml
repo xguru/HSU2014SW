@@ -18,8 +18,10 @@
 */
 -->
  
-<resources>
-    <dimen name="key_height">50px</dimen>
-    <dimen name="candidate_font_height">16sp</dimen>
-    <dimen name="candidate_vertical_padding">6sp</dimen>
-</resources>
+<com.example.android.softkeyboard.LatinKeyboardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/keyboard"
+        android:layout_alignParentBottom="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
