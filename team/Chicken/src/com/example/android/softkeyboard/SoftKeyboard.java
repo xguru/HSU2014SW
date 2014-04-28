@@ -444,7 +444,7 @@ public class SoftKeyboard extends InputMethodService
  
     private void handleClose() {
         commitTyped(getCurrentInputConnection());
-        dismissSoftInput(0);
+       // dismissSoftInput(0);
         mInputView.closing();
     }
  
