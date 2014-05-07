@@ -1,0 +1,31 @@
+※ Little Big Details Wish List
+
+1. letterboxd - Uses famous movie quotes as their Captcha during sign up. 
+ → 보통 의례적이고 형식적인 회원가입시 딱딱한 내용이 아닌 유명한 영화 인용구를 첨부하여 Captcha를 사용한 것이 인상적이다.
+
+2. OS X - Option-click Sound icon in the menu bar to change sound output and/or input quickly. 
+ → 요즘 시대에 기능의 간결함과 단순함, 편리함이란 최고의 강점이라고 생각한다. 두번의 클릭으로 아웃풋의 사운드를 결정할 수 있다는 것은 정말 굉장한 매력적인 기능인것 같다.
+
+3. Control Centre iOS 7 - The on/off switch of the flashlight icon changes based on whether or not the actual flashlight is on or off
+ → 플래시라이트가 켜졌을때와 꺼졌을때를 상요자가 직관적으로 볼 수 있게 시각화 해놓은 것이 인상적이다.
+
+4. Siri - Confirms what “tomorrow” means, when it is mentioned close to midnight
+ → 우리는 종종 12시 지난 후의 "내일"을 언급할때 열두시 지난 오늘의 일정을 말하는지, 열두시 지난 내일의 일정을 말하는지에 대해 종종 헷갈리곤 한다. 이것에 대한 확실한 언급을 요하는 기능이 인상적이다.
+
+5. Twitter - iOS app gives feedback in the status bar when you Tweet.
+ → 트위터를 보낼때 다른 칸을 할애하지 않고 상단바를 이용하여 현재 상태를 보여준다는 것이 상당히 심플하면서 강력한 기능인것 같다.
+
+6. iPad Keyboard - There are phantom keys in the middle when you split the keyboard in half.
+ → 우리는 보통 키보드를 칠때 양손으로 치는데, 아이패드의 Half방식의 가상 키보드가 인상적이다. 보통 큰 화면을 가진 핸드폰으로 글자를 작성할 때도 불편함을 느끼곤 하는데 아이패드같은 경우 반으로 나눠서 입력하는 키보드는 훨씬 효율적일거같다.
+
+7. iOS Safari - When you’re typing something followed by a dot in address bar, pressing the .com key, will result in a perfect one-dot spelling anyway. Then when you press it longer it shows you other domain options.
+ → 항상 모바일 기기로 메일주소를 입력해야 하는 경우 .net .org 등 .com이외의 다른 주소를 입력할때 생각보다 상당히 귀찮다. 미리 입력된 .com .net .edu를 선택하여 입력할 수 있다는 것이 인상적이다.
+
+8. iOS - When opening a folder, little triangle slides down with the folder’s contents.
+ → 활성화 된 폴더만 부각되고 그 이 외의 파일은 투명처리가 되면서 현재 작업창에 대해 시각적으로 보여주는 기능이 좋다.
+
+9. Facebook - When you have your relatives marked on Facebook, you can search for them by their relation to you.
+ → 사람을 검색할때 확실한 검색어에 대한 정보가 아닌 연관된 인물들을 찾아주는 편리한 기능이다.
+
+10. Facebook - When it’s your friend’s birthday it suggests you post about it.
+ → 생일인지 인지하지 못한 상태에서 일상적으로 친구에게 포스트를 할 때, 기본 텍스트로 Say Happy Birthday! 라고 인식시켜 주는 기능, 사소하지만 사소한 것을 알려주는 기능은 가히 강력하다고 할 수 있다.
