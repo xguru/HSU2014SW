@@ -1,0 +1,31 @@
+1291011 김태리
+
+http://littlebigdetails.com/post/38627462654/itunes-when-adding-a-free-item-to-a-wish-list
+영어를 잘하지 못하는 내가 이 디자인을 오해할 수도 있겠지만 아마 교수님께서 강의 시간에 언급하셨던 부분과 비슷한 부분의 디자인이 아닌가 싶다. '탭 수'에 민감하지 않았던 내게, 당시 꽤 신선한 충격을 주어 인상깊게 느꼈다.
+
+http://littlebigdetails.com/post/7974713512/ios-safari-when-youre-typing-something-followed
+스마트폰에 한메일 주소를 입력할 때마다 항상 불만이었지만 '왜 .net은 없을까?'만 생각했지 '.net'이 있는지 제대로 찾아볼 생각을 한 적은 없었다. 디자인이나 기능 자체는 전혀 신기하지 않았지만 있는 기능도 쓰지 못했던 나를 돌아보게된 계기가 되어 인상깊었다. (안드로이드 폰에도 있는 기능이었다.)
+
+http://littlebigdetails.com/post/17211149368/ipad-keyboard-there-are-phantom-keys-in-the
+언뜻 봤을 때는 타 키보드들과 다를 게 없어 보였는데 생각해보니 고정관념을 깬 디자인이었다. 더 생각해보니 정말로, 키보드가 굳이 하나로 붙어있을 필요는 없었다. 게다가 아마 '팬텀 키'라는 보이지 않는 키가 있는 듯한데, 키보드를 반으로 나눈 디자인을 넘어서 뭐라 형용할 수 없을 만큼 창의적인 생각같아 굉장히 인상깊었다.
+
+http://littlebigdetails.com/post/23796537654/google-mapsgl-the-shadows-cast-by-the-buildings
+태양의 현재 위치를 쉽게 알려주기도 하지만, 대부분의 지도처럼 건물이 불쑥 튀어나오기만한 것이 아니었기 때문에 왠지 3D보다 더 3D처럼 느껴졌고 그게 또 예뻐서 인상깊었다.
+
+http://littlebigdetails.com/post/6417364960/amazon-when-you-click-next-page-while-viewing
+페이지 로딩 시간이 인내할 수 없을 만큼 긴 것이 아니라면 다음 페이지를 기다리는 시간을 없애줄 수 있을 것 같다. 나도 그렇지만 대부분의 사람들은 다음 페이지로 넘어가는 시간을 줄이기 위해서(심지어 없애는 것이 아니라) 페이지 로딩 시간을 고려할텐데, 이러한 생각을 역발상한 것 같아 인상깊었다.
+
+http://littlebigdetails.com/post/3233891448/lego-the-lego-character-covers-his-eyes-when-a
+사용자가 비밀번호를 입력할 때 캐릭터가 눈을 가려준다니.. 센스가 정말 좋은 것 같다. 딱히 불편함을 느낄 부분이 없는 곳에서 이런 디자인을 추가한 것은 사용자를 많이 생각했다는 느낌을 들게 한다.
+
+http://littlebigdetails.com/post/5606020186/zappos-after-getting-a-500-server-error
+서버에 오류가 발생하는 것을 100% 막을 수는 없다고 생각한다. 때문에 이런 오류들에 대비하여, 귀여운 캐릭터가 세 가지 해결 방안을 각기 다른 제스쳐로 권한다면 서버 오류를 기분 좋게 넘길 수 있을 것 같다. 서버 오류를 어쩔 수 없이 발생하는 불편함으로 넘길 수도 있을 것 같은데 이런 디자인을 굳이 추가한 것 역시, 사용자를 많이 신경쓴 것 같아 마음에 들었다.
+
+http://littlebigdetails.com/post/42429819052/os-x-adjust-the-volume-in-1-4-increments-with
+나는 음악을 들을 때 '너무 작은' 음량 3과 '너무 큰' 음량 4 사이에 항상 고민을 한다. 그래서 음량을 1/4 단위로 조절할 수 있다는 점이 굉장히 마음에 들었다.
+
+http://littlebigdetails.com/post/6869723699/kickstarter-click-the-scissors-icon-three-times
+사용자의 대부분은 사이트의 '회사 소개' 같은 내용들을 필요로 하지 않다. 때문에 가위 아이콘을 몇 번 클릭하는 것만으로도 불필요한 내용들을 잘라버릴 수 있다는 것이 마음에 들었고 센스있다고 생각되었다.
+
+http://littlebigdetails.com/post/35987600283/facebook-the-notifications-icon-shows-a
+솔직히 페이스북 사용자 중 얼마나 많은 사람이 이 디자인을 눈치챌까 싶기도 하다. 하지만 내가 페이스북 사용자로서 이런 디자인이 있었다는 것을 알게 된다면 페이스북에 꽤 큰 감동을 할 것 같아 마음에 들었다.
