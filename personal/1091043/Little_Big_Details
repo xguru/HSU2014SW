@@ -1,0 +1,34 @@
+<Little Big Details>
+http://littlebigdetails.com/
+
+1. Gmail - you paste the text version of an email address like “team at angel dot co”, Gmail automatically converts it to a correct email address when pasted in recipients.
+Gmail에서 메일주소를 입력할 때, team at angel dot co 라고만 입력해도 메일주소가 자동으로 team@angel.co 로 변환된다. 특히나 특수문자를 쓰기 귀찮은 경우에 일관성있게 메일 주소를 영어로 작성 할 수 있다는 점에서 개발자가 신경 쓴 Detail이 보인다.
+
+2. YouTube - The favicon changes based on whether the video is buffering, playing, or paused.
+유투브 재생목록에서의 파비콘(favicon)이 버퍼링중/재생중/정지중에 따라 다르게 보인다. 이는 사용자들이 동영상 시청 외 다른 작업을 할 때, 간단히 파비콘만 봐도 현재 동영상의 상태를 알 수 있게 해주어서 편리하다고 생각한다.
+
+3. Dropbox - assword strength is indicated by colored bars underneath the input field.
+암호 강도가 가입시 비밀번호 입력칸 아래 색깔막대로 표시되어서, 현재 지정한 사용자들의 암호가 얼마나 위험한지를 간단히 알게 해준다. 이 막대는 very weak 부터 weak, so so, good, great 의 5단계로 나뉘는데, 이것으로 사용자들이 더욱 안전한 암호를 설정 할 수 있도록 장려하는 역할도 수행한다.
+
+4. Google - When looking at the wind speed in weather forecasts, the size of the arrows gets larger for stronger winds.
+구글의 일기 예보에서 풍속을 보면 화살표의 크기가 각각 다른데, 이 화살표의 크기는 바람의 세기를 나타낸다. 풍속을 수치로 보는 것 보다 이런 직관적인 화살표를 사용하면 사용자들이 더욱 공감하기 쉬울 것 같아서 좋은 Detail Design이라고 생각한다.
+
+5. Chrome - When dragging the active tab it is always on top of the others, when dragging an inactive tab it moves behind the active one.
+크롬에서 여러 탭 중 하나의 탭을 드래그할 때, 드래그 되는 동안 그 탭은 다른 탭들보다 상단에 위치한다. 매우 간단해 보일수도 있지만, 개발자들은 사실 처음 만들때 이런 부분까지는 신경쓰지 않았을 것 같다. 하지만 아무래도 이동중인 탭이 다른 탭들보다 아래에 위치한다면 매우 이상해 보일 것이다. 없어서는 안될 Detail이지만 User들이 사용하면서 전혀 거슬리지 않도록 신경 쓴 부분이 보인다.
+
+6. Gmail - Incompatible versions of Internet Explorer show a damaged envelope as the favicon.
+Gmail이 제대로 호환되지 않는 익스플로러의 버전에서는 파비콘으로 손상된 봉투의 모양을 보여준다. 제대로 작동하지 않을 수도 있다는 의미를 가진 것 같아서 재미있어 보였다.
+
+7.Amazon - When browsing camera lenses, a box automatically displays compatibility with your SLR camera from your Amazon purchase history.
+카메라 렌즈를 구입할 때, 아마존은 자동으로 사용자의 구매 내역에서 SLR 카메라를 찾고, 그 카메라와의 호환성 여부를 체크해준다. 즉, 사용자의 구매 내역과 지금 보고있는 상품과 비교를 해주는 것으로, 솔직히 오늘 찾아본 Detail중에 가장 맘에 드는 Detail이라고 생각한다. Web 기반의 Market에서 가장 효율적으로 수행될 수 있는 Detail이 아닐까 생각된다.
+
+8. Facebook - shows weather forecasts for events based on the time, location and date.
+Facebook은 시간, 위치 및 날짜에 따라 이벤트에 대한 일기 예보를 보여준다. 위치와 시간, 날짜가 입력된 이벤트가 있다면 알아서 그 일정에 맞추어 일기 예보를 보여주므로, 사용자들이 깜박하고 지나갈수도 있는 날씨 확인을 물어보지 않아도 수행해준다는 점이 흥미로웠다. 
+
+
+9. Facebook - The ‘Update Status’ field’s help text changes context on Thanksgiving.
+Facebook의 상태 업데이트 기본 필드는 Thanksgiving day에 What are you thankful for? 로 바뀐다. 조금 단순하긴 하지만 이런 Detail들로 인해 사용자와 소통하려는 개발자의 모습이 보여서 인상적이었다.
+
+
+10. Facebook - The notifications icon shows a different side of the globe depending on your location.
+Facebook에서 알림 창은 지구 모양인데, 이 지구 모양은 사용자들의 위치에 따라 세계의 다른 면을 보여준다. 사실 Facebook은 지구의 어느 한 면만 보여주기엔 이미 너무나도 세계적으로 사용되고 있다. 특정 지구의 모습에 얽메이지 않고 지구 반대편의 사용자들까지도 배려하는 모습이 재미있었다.
