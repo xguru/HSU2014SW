@@ -1,0 +1,42 @@
+1.Twitter - iOS app gives feedback in the status bar when you Tweet
+트윗할때 @user 처럼 이름을 붙이지 않고도 그냥 user를 타이핑해도 자동으로 흔한 이름의 유저를 검색해주는 기능이 좋은것 같다.
+또한 ios app에선 피드백을 보낼때 상단바에 sending tweet, tweet sent라고 보여줘서 편하게 확인할수 있다.
+일일히 @를 해야되는 번거로움을 줄일수 있다.  
+
+2.Tumblr -On earth day
+tumblr옆 작은 지구로고로 다른 메세지를 매번 보여주는게 인상깊다 자세히 보면 지구표면도 조금씩 변하는게 보여서 신기하고 귀엽다.
+매번 다른글이 나와서 읽는 재미도 쏠쏠할것 같다. 
+
+3.YouTube - While a video is playing, a play icon is added to the browser window title.
+유투브로 동영상을 자주보는 편인데 저런 기능을 이제야 알게 되었다. 
+윈도우 타이틀로 바로 재생하고 버퍼링 또는 멈춤을 볼수 있어서 간편하고 좋다.
+저렇게 바로 실시간으로 표현되는것도 신기하다.
+
+4.YouTube - To celebrate 1 billion views, a tiny dancing Psy was added to the video page for Gangnam Style.
+와..이 기능은 너무 신기하고 귀엽다.
+싸이가 조회수 옆에서 강남 스타일을 추고 있는데 딱딱하고 전형화 된 사이트가 아닌게 느껴져서 신선하다. 
+또 강남스타일 한정인지 다른 유명한 뮤직비디오도 가수가 저렇게 나오는지 궁금하다.
+
+5.Yelp - Lets you use emoji to search for businesses.
+글이나 단어가 아닌 이모티콘으로 원하는 결과를 볼수 있는 기능이라니 재밌다.
+점점 이제 모바일에서 이모티콘의 종류도 다양해지고 사람들도 자주 이모티콘으로 여러가지 표현을 하는데 검색까지 할수 있는게 간편하고 좋은것 같다.
+
+6.Sleepbot - If you stop using the app to track your sleep, it calls you out on it.
+어플 활성화를 안 시키면 어플이 우리에게 말을 거는 방식 아직도 7일동안 잠을 안잤냐는 식으로 말해줘서 재밌다.
+잠을 거의 못자거나 불규칙한 나한테 좋은 어플이 될것 같다.
+ 
+7.LinkedIn for iOS - When tapping the closed eyelid while logging in, the closed eyelid turns into an open eye and your password becomes visible.
+비밀번호를 칠때 항상 *****이런 식으로 나와서 비밀번호가 틀리거나 좀 긴경우 헷갈리는 경우가 있는데 옆에 눈감김 표시를 눈뜬거로 바꿔주면 바로 가려지지 않고 그대로 볼 수 있어서 비밀번호 오류가 날 때 뭐가 문제인지 쉽게 찾아낼수 있어서 편리할것 같다.
+
+8.City Mapper App - When you’ve filtered a journey with ‘walk’ it tells you the percentage of daily calorie intake used and what that equates too in food stuffs.
+다이어트 할때 유용할것 같다.
+목적지를 정해놓고 가는 동안 몇 칼로리가 소비되는지 알려줘서 그 칼로리가 하루에 얼만큼 사용됬는지나 그 열량의 음식을 알려줘서 의욕을 돋게 해주는것 같다.
+배터리 사용률이 높지 않다면 걷기 운동을 좋아하는 나한테 유용할 어플인것 같아서 다운받고 싶다.
+
+9.Facebook - The icon for marriages is automatically based on the genders of those involved.
+남자-여자 커플이 일반적이지만 요즘은 남자-남자 또는 여자-여자 커플들도 많기 때문에 결혼중이라는 상태가 되면 위에 아이콘이 뜨는데 남남 커플은 남자 아이콘 두개가 되있고 남여 커플은 남자 여자 아이콘 한개씩 되있어서 신기하다.
+페이스북은 하루 한번 이상 보는 sns인데 이런 세세한것 까지 신경 썼을 줄이야 놀랍다. 
+
+10.Facebook - When it’s your friend’s birthday it suggests you post about it.
+요즘은 생일이 되면 페이스북으로 축하를 많이한다.
+무심코 지나칠수 있었던 친구인데 담벼락 글 쓰기 전에 생일이라고 축하 메세지를 남겨주세요 이런 글이 미리 나타나면 잊지 않고 챙길수 있어서 좋은것 같다.
